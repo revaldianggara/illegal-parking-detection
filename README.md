@@ -1,5 +1,5 @@
-# illegalParking_yolo
-Deteksi Pelanggaran parkir liar menggunakan YoloV3 
+# illegalParking yoloV3
+Deteksi Pelanggaran parkir liar menggunakan aristektur YoloV3 
 
 ## Cara running
 ```
