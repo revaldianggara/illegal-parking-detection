@@ -1,4 +1,4 @@
-# illegalParking yoloV3
+# Illegal Parking yoloV3
 Deteksi Pelanggaran parkir liar menggunakan aristektur YoloV3 
 
 ## How to Run
